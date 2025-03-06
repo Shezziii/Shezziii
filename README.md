@@ -106,7 +106,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Shezziii.Shezziii&left_color=aliceblue&right_color=antiquewhite&left_text=Shezziii"  />
+  <img src="https://profile-counter.glitch.me/Shezziii/count.svg?"  />
 </div>
 
 ###
